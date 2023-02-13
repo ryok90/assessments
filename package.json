@@ -1,0 +1,8 @@
+{
+  "name": "assessments",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "fullstacklabs-react"
+  ]
+}
