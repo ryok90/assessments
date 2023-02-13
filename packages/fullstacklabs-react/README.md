@@ -65,16 +65,16 @@ The `GET /monsters` return the following contract when requested:
 
 ```bash
 [
-	{
-		"id": "id",
-		"name": "Monster 1",
-		"attack": 20,
-		"defense": 30,
-		"hp": 100,
-		"speed": 50,
-		"type": "Type",
-		"imageUrl": "url"
-	}
+  {
+    "id": "id",
+    "name": "Monster 1",
+    "attack": 20,
+    "defense": 30,
+    "hp": 100,
+    "speed": 50,
+    "type": "Type",
+    "imageUrl": "url"
+  }
 ]
 ```
 
@@ -82,8 +82,8 @@ The `POST /battle` expects to receive a body with the monsters' information; the
 
 ```bash
 {
-	"monster1Id": "monster-1",
-	"monster2Id": "monster-2"
+  "monster1Id": "monster-1",
+  "monster2Id": "monster-2"
 }
 ```
 
@@ -112,13 +112,9 @@ You will need to login or create an account in [Figma](https://www.figma.com/)
 
 After that, you will need the following link for the challenge:
 
-- [Figma Design](https://www.figma.com/file/wXA5toXu2tZJyhXNY5b5zB/Battle-of-Monsters---Front-End) *(You can use the "Inspect" tab to see the CSS values)*
+- [Figma Design](https://www.figma.com/file/4mzaX6J6FdbtQvD9Z24Kwv/Battle-of-Monsters---Front-End-(Copy)) *(You can use the "Inspect" tab to see the CSS values)*
 
 **Note**: the *“Inspect”* tab option will just show up if you are logged in; that’s why you need to login or create an account in Figma.
-
-![You will have these options after login](React%20Coding%20Challenge%20-%20Battle%20of%20Monsters%202f30bed3c9fc436cb634b3715bf4829d/Untitled.png)
-
-You will have these options after login
 
 ## The Problem-Solving Challenge
 
