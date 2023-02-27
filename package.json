@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "workspaces": [
+    "corbin-brooks-js",
     "fullstacklabs-node",
     "fullstacklabs-react",
     "matilda-node",
