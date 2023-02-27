@@ -5,6 +5,7 @@
   "workspaces": [
     "fullstacklabs-node",
     "fullstacklabs-react",
-    "matilda-node"
+    "matilda-node",
+    "visual-nuts-js"
   ]
 }
