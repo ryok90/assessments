@@ -24,21 +24,16 @@ You will create a screen recording video of yourself completing the challenge, t
 Hi! Welcome to the React coding challenge! We want to check your React knowledge by giving you an application to finish. We already have an application, but it is incomplete; your goal is to finish this application and make the application usable.
 
 > *We have a project structured with a pattern, so the time suggested above can be done following the pattern and splitting your time into categories; a good organization will lead you to finish the challenge successfully!*
-> 
 
 > *Remember that we are not requesting you to create a responsive application; you can focus only on the web version.*
-> 
 
-<aside>
-⏳ **Recommended duration for each category in the challenge (this is a suggestion)
-  -** **Styling**: 15 minutes
-  **- Components creation**: 10 minutes
-  **- Services and logic**: 10 minutes
-  **- Unit testing**: 10 minutes
+⏳ **Recommended duration for each category in the challenge** (this is a suggestion)
+ - **Styling**: 15 minutes
+ - **Components creation**: 10 minutes
+ - **Services and logic**: 10 minutes
+ - **Unit testing**: 10 minutes
 
 *Of course, you can split the time as you want, but we recommend you follow this.*
-
-</aside>
 
 ### Instructions
 
@@ -123,7 +118,6 @@ Hi! Welcome to the TypeScript problem-solving code challenge; we want to test yo
 You will be provided a repository with some challenges and have to solve them by implementing and making all the created tests pass.
 
 > Please, remember to **NOT USE GOOGLE** to solve the reasoning challenges; try to solve them by yourself.
-> 
 
 ### Challenges
 
