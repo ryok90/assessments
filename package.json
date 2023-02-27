@@ -4,6 +4,7 @@
   "private": true,
   "workspaces": [
     "fullstacklabs-node",
-    "fullstacklabs-react"
+    "fullstacklabs-react",
+    "matilda-node"
   ]
 }

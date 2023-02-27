@@ -1,7 +1,6 @@
 {
-  "name": "battle-of-monsters-node",
+  "name": "fullstacklabs-node",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "node": "14.16.0",
